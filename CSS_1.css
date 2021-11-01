@@ -1,0 +1,30 @@
+h1{
+color: darkred;
+font-family: Tahoma;
+border-width: 5px;
+border-style: dotted;
+border-color: black;
+}
+button{
+    color: cadetblue;
+    background-color: darkblue;
+}
+p{
+    color:rgb(100, 100, 236)
+}
+div{
+    border: 3px solid;
+    border-color: rgb(98, 185, 98);
+    height: 80px;
+    width: 80px;
+    color: #e46c6c;
+    margin-left: 500px;
+    font-family: Impact
+}
+body{
+    background:url('78566_1920_1200.jpg');
+    background-attachment: fixed;
+    border: 2px solid;
+    border-color: rgb(99, 158, 125);
+    
+}
