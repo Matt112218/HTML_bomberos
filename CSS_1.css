@@ -1,9 +1,7 @@
 h1{
-color: darkred;
-font-family: Tahoma;
-border-width: 5px;
-border-style: dotted;
-border-color: black;
+    color: darkred;
+    font-family: Tahoma;
+    border: dotted 5px black;
 }
 button{
     color: cadetblue;
@@ -27,4 +25,7 @@ body{
     border: 2px solid;
     border-color: rgb(99, 158, 125);
     
+}
+#textArea1{
+    border: solid 3px #666
 }
